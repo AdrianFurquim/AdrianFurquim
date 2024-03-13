@@ -16,6 +16,10 @@
 
 Amo tecnologia, organização, educação e poder contribuir para o mundo com meus conhecimentos em programação.
 
+### Formação:
+Técnico em Informática - IFSP (Instituto Federal de São Paulo) <br>
+Engenharia de Software - USF (Universidade São Francisco)
+
 ### Email para contato:
 
 📧 adrian.furquim26@gmail.com
