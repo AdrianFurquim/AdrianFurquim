@@ -20,6 +20,9 @@ Amo tecnologia, organização, educação e poder contribuir para o mundo com me
 Técnico em Informática - IFSP (Instituto Federal de São Paulo) <br>
 Engenharia de Software - USF (Universidade São Francisco)
 
+### Portifólio
+https://adrianeduardo.netlify.app/
+
 ### Email para contato:
 
 📧 adrian.furquim26@gmail.com
