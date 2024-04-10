@@ -1,7 +1,7 @@
  
  ### Olá! Eu sou Adrian Furquim! 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-eduardo-5b13142a7/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-furquim-5b13142a7)
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
