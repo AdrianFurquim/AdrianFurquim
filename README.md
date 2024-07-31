@@ -1,7 +1,19 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
  
- ### Olá! Eu sou Adrian Furquim! 🖐️
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=1000&lines=Olá!%2C+me+chamo+Adrian+Furquim;Sou+Desenvolvedor;Sou+Engenheiro+de+Software;Sou+Programador;)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-furquim-5b13142a7)
+<br><br>
+<div align="center">
+
+ <a href="mailto:cmp.1a.adrian.furquim26@gmail.com">
+ <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+ </a>
+ 
+ <a  href="https://www.linkedin.com/in/adrian-furquim-5b13142a7" target=_blank>
+ <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+ </a>
+</div>
+
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
@@ -16,15 +28,19 @@
     
 </div><br/>
 
-Amo tecnologia, organização, educação e poder contribuir para o mundo com meus conhecimentos em programação.
 
-### Formação:
+## Formação:
 Técnico em Informática - IFSP (Instituto Federal de São Paulo) <br>
 Engenharia de Software - USF (Universidade São Francisco)
 
-### Portifólio
-https://adrianeduardo.netlify.app/
-
-### Email para contato:
+## Email para contato:
 
 📧 adrian.furquim26@gmail.com
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/AdrianFurquim?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
