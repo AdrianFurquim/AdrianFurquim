@@ -15,17 +15,21 @@
 </div>
 
 
-## Tecnologias que uso no meu dia
+## Tecnologias
 <div style="display: inline_block"><br/>
-    <img aling="certer" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling="certer" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="certer" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img aling="certer" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img aling="certer" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img aling="certer" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img aling="certer" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img aling="certer" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    
+    <div align="center">
+       <img alt="HTML" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
+       <img alt="CSS" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+       <img alt="JavaScript" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+       <img alt="TypeScript" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+       <img alt="React" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+       <img alt="Angular" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg"> <br>
+       <img alt="PHP" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
+       <img alt="Java" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+       <img alt="Python" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+       <img alt="MySQL" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
+       <img alt="PostgreSQL" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+    </div>
 </div><br/>
 
 
