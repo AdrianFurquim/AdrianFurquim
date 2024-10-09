@@ -34,8 +34,8 @@
 
 
 ## Formação:
-Técnico em Informática - IFSP (Instituto Federal de São Paulo) <br>
-Engenharia de Software - USF (Universidade São Francisco)
+### Técnico em Informática - IFSP (Instituto Federal de São Paulo) <br>
+### Engenharia de Software - USF (Universidade São Francisco)
 
 ## Email para contato:
 
