@@ -29,6 +29,7 @@
        <img alt="Python" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
        <img alt="MySQL" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
        <img alt="PostgreSQL" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+       <img alt="Oracle" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Oracle.svg">
     </div>
 </div><br/>
 
