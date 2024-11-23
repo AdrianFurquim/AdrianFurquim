@@ -22,14 +22,12 @@
        <img alt="CSS" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
        <img alt="JavaScript" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
        <img alt="TypeScript" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
-       <img alt="React" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
-       <img alt="Angular" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg"> <br>
+       <img alt="React" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"> <br>
+       <img alt="Angular" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg"> 
        <img alt="PHP" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
        <img alt="Java" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
-       <img alt="Python" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
        <img alt="MySQL" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
        <img alt="PostgreSQL" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
-       <img alt="Oracle" height="90" width="90" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Oracle.svg">
     </div>
 </div><br/>
 
