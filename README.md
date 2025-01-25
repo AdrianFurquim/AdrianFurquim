@@ -14,6 +14,11 @@
  </a>
 </div>
 
+## Experiência:
+### Estágio - Desenvolvedor Web <br>
+ - Instituto de Pesquisa Eldorado -
+Atualmente, atuo como estagiário na área de Desenvolvimento Web no Instituto de Pesquisa Eldorado.
+
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
@@ -35,6 +40,7 @@
 ## Formação:
 ### Técnico em Informática - IFSP (Instituto Federal de São Paulo) <br>
 ### Engenharia de Software - USF (Universidade São Francisco)
+
 
 ## Email para contato:
 
